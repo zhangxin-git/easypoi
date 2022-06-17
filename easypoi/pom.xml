@@ -32,7 +32,7 @@
         <!--jackson asl版本-->
         <jackson.asl.version>1.9.13</jackson.asl.version>
         <!--fastjson版本-->
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <!--easypoi版本-->
         <easypoi.version>4.0.0</easypoi.version>
         <bouncycastle.version>1.46</bouncycastle.version>
